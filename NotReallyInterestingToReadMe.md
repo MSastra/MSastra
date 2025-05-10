@@ -1,5 +1,5 @@
-cout <<  "Hi, I’m 'Sastra" << endl;
--  I’m interested in coding in C++
--  I’m currently learning C#
--  Email: Rusudan.sulkhanishvili2003@gmail.com
-
+cout <<  "Hi, I’m 'MSastra" << endl;
+-  I’m interested in coding
+-  My code compiles 
+-  Architecting microservices. Accidentally made a distributed monolith
+-  Email: ??? Dont message me
